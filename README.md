@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # 🇿🇦 The Brazilians: Scouting Intelligence Lab
 ### *AI-Powered Performance Twin Finder for Elite South African Football*
 
